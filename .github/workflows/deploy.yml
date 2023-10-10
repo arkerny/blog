@@ -1,32 +1,25 @@
-name: Pages
-
+name: deploy
 on:
   push:
-    branches:
-      - main  # default branch
+    branches: [ "main" ]
+  workflow_dispatch:
 
 jobs:
-  pages:
+  deployment:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
+    name: deployment
     steps:
-      - uses: actions/checkout@v3
+      - name: Check Out
+        uses: actions/checkout@v3
+      - name: Clone Repo
+        uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          # If your repository depends on submodule, please see: https://github.com/actions/checkout
-          submodules: recursive
-      - name: Use Node.js
-        uses: actions/setup-node@v2
+          repository: arkerny/blog
+          path: .deploy_git
+      - name: Setup Node
+        uses: actions/setup-node@v3
         with:
-          node-version: '18.18.0'
-      - name: Cache NPM dependencies
-        uses: actions/cache@v2
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
+          node-version: 18.18.0
       - name: Install Dependencies
         run: npm install
       - name: Build
@@ -36,3 +29,4 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          # cname: example.com
