@@ -16,5 +16,18 @@
   
   
   
+  <entry>
+    <title>Hello World!</title>
+    <link href="/2023/10/10/Hello-World/"/>
+    <url>/2023/10/10/Hello-World/</url>
+    
+    <content type="html"><![CDATA[<p>就是说，开始使用自建博客了，目前是部署在 CloudFlare Pages 和 Github Pages 上的，或许以后会换用其他平台。</p><p>那么……</p><p><strong>Hello, World!</strong></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
   
 </search>
