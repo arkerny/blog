@@ -101,4 +101,7 @@ theme: stellaris
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: ssh://git@ssh.github.com:443/arkerny/arkerny.github.io.git
+  branch: gh-pages
+  message: "Site updated: {{ now('DD HH:mm:ss') }}"
