@@ -491,7 +491,7 @@ style:
   custom_font_css:
     # 自定义字体
     enabled: true
-    css: 'fonts.css'
+    css: https://fontsapi.zeoseven.com/285/main/result.css
 
 ######## 缺省资源文件 ########
 default:
