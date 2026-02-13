@@ -1,5 +1,5 @@
 node_modules/
 .deploy_git/
-.public/
+public/
 .DS_Store
-.db.json
+db.json
