@@ -1,2 +1,5 @@
-node_modules
-.deploy_git
+node_modules/
+.deploy_git/
+.public/
+.DS_Store
+.db.json
