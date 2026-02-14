@@ -1,0 +1,8 @@
+# 不要直接在这里写，要复制到 blog/source/_data/links.yml 位置
+'bff':
+  - title: zzmleslie
+    avatar: https://zzmleslie.github.io/image/rana2.png
+    url: https://zzmleslie.github.io/
+  - title: 炒米线
+    avatar: https://avatars.githubusercontent.com/u/149247415?v=4
+    url: https://blog.chaomixian.top/
