@@ -484,8 +484,8 @@ style:
     scrollbar: 4px
     highlightjs_theme: https://fastly.jsdelivr.net/gh/highlightjs/cdn-release@11.5.0/build/styles/atom-one-dark.min.css
   font-family:
-    logo: 'Noto Serif SC, system-ui, -apple-system, sans-serif'
-    body: 'Noto Serif SC, system-ui, -apple-system, sans-serif'
+    logo: 'Noto Serif CJK, system-ui, -apple-system, sans-serif'
+    body: 'Noto Serif CJK, system-ui, -apple-system, sans-serif'
     code: 'Menlo, Monaco, Consolas, "Courier New", monospace, sans-serif'
     codeblock: 'Menlo, Monaco, Consolas, "Courier New", monospace, sans-serif'
   custom_font_css:
