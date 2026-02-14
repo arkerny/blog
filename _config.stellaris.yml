@@ -368,7 +368,7 @@ plugins:
   # 图片懒加载
   # https://www.npmjs.com/package/vanilla-lazyload
   lazyload:
-    enabled: false # [hexo clean && hexo s] is required after changing this value.
+    enabled: true # [hexo clean && hexo s] is required after changing this value.
     js: https://fastly.jsdelivr.net/npm/vanilla-lazyload@17.3.1/dist/lazyload.min.js
     transition: blur # blur, fade
 
@@ -448,8 +448,8 @@ style:
   darkmode: false # auto / always / false / auto-switch
   smooth_scroll: true # true / false
   font-size:
-    root: 19px
-    body: .9rem
+    root: 18px
+    body: .95rem
     code: 85%
     codeblock: 0.8125rem
   text-align: left
