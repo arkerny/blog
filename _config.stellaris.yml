@@ -55,7 +55,7 @@ sidebar:
     # 使用 'layout: wiki' 的页面，如 wiki 文档内页
     wiki: search, ghrepo, toc, ghissues, related
     # 使用 'layout: page' 的自定义页面
-    page: welcome, toc, search
+    page: toc
 
 ######## 全局 ########
 breadcrumb:
@@ -253,9 +253,7 @@ footer:
       - '[归档](/archives)'
     '社交':
       - '[友链](/friends)'
-      - '[留言板](/)'
     '更多':
-      - '[关于本站](/about)'
       - '[GitHub](https://github.com/arkerny)'
   license: '[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)'
   source: https://github.com/arkerny/blog  # 博客源码信息
