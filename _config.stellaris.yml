@@ -27,6 +27,7 @@ sidebar:
     # 可以使用 Markdown 语法自定义，支持 HTML 标签
     #（如 '[<img no-lazy height="32px" src="xxx"/>](/)'）
     title: '[config.title](/)'
+    
   menu:
     # 侧边栏顶部的链接按钮
     # post: '[btn.blog](/)'
