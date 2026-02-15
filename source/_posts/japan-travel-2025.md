@@ -4,6 +4,7 @@ date: 2026-1-14 23:31:53
 categories: 游记
 tags: [游记, 日本, 摄影]
 cover: 'https://mirror.akn.moe/gh/arkerny/images/raw/main/Japan_Travel/DSCF0688-已增强-降噪-编辑-cover.webp'
+description: 这是旧历的残阳，也是新历的朝阳。
 ---
 
 ## 前言（Blog 版）

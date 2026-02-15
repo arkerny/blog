@@ -3,6 +3,7 @@ title: Hello World
 date: 2026-01-01 00:00:00
 categories: 杂记
 tags: Hello World
+description: "Hello World!"
 ---
 
 这是第 $n$ 个博客了，希望这次的博客能活的久一点。
