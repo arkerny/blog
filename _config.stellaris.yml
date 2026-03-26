@@ -257,7 +257,7 @@ footer:
       - '[GitHub](https://github.com/arkerny)'
   license: '[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)'
   source: https://github.com/arkerny/blog  # 博客源码信息
-  content: '<p>本站由 <a href="https://www.upyun.com" target="_blank"><img src="https://files.seeusercontent.com/2026/02/14/M5kz/ae09871.png" style = "vertical-align: text-bottom; height: 20px;"></a> 提供 CDN 加速 / 云存储服务</p>'
+  content: '<p>本站由 <a href="https://www.upyun.com/?utm_source=lianmeng&utm_medium=referral" target="_blank"><img src="https://files.seeusercontent.com/2026/02/14/M5kz/ae09871.png" style = "vertical-align: text-bottom; height: 20px;"></a> 提供 CDN 加速 / 云存储服务</p>'
   # 主题用户越多，开发者维护和更新的积极性就越高，如果您喜欢本主题，请在适当的位置显示主题信息和仓库链接以表支持。
 
 ######## 标签插件 ########
