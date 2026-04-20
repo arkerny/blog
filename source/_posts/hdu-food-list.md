@@ -1,5 +1,5 @@
 ---
-title: 「HDU 食用指北」目录
+title: 「arkerny 和 cHAR0N 的 HDU 食用指北」目录
 date: 2233-01-01 00:00:00
 categories: 食用指北
 tags: 食用指北
