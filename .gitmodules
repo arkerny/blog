@@ -1,3 +1,6 @@
 [submodule "themes/stellaris"]
 	path = themes/stellaris
 	url = https://github.com/arkerny/hexo-theme-stellaris.git
+[submodule "themes/themes/stellaris"]
+	path = themes/themes/stellaris
+	url = https://github.com/arkerny/hexo-theme-stellaris.git
