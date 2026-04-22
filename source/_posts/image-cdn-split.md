@@ -3,7 +3,7 @@ title: 基于 Backblaze B2 对象存储的图床与国内外的 CDN 分流
 date: 2026-04-25 16:16:27
 categories: 技术
 tags: [图床,CDN,分流]
-cover: ''
+cover: 'https://split.img.arkerny.fun/images%2F2026%2F04-22-17-04-37-84b9aed616a5416c20c8263d0f375c5d-Bocchi_103365922_1776851379320_2vjf5x.webp'
 description: 全球统一的访问速度、可以承受的低廉价格。
 ---
 
