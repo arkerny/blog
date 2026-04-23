@@ -14,6 +14,6 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 [港式肥锅米线](https://blog.akn.moe/2026/04/20/hdu-food-list-20260420/)
 
 <!-- node Apr 21, 2026 -->
-[港式肥锅米线](https://blog.akn.moe/2026/04/20/hdu-food-list-20260421/)
+[喜姐炸串](https://blog.akn.moe/2026/04/20/hdu-food-list-20260421/)
 
 {%endtimeline%}
