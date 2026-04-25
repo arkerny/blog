@@ -17,6 +17,6 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 [喜姐炸串](https://blog.akn.moe/2026/04/21/hdu-food-list-20260421/)
 
 <!-- node Apr 21, 2026 -->
-[杭邦面馆](https://blog.akn.moe/2026/04/24/hdu-food-list-20260424/)
+[杭邦面馆](https://blog.akn.moe/2026/04/25/hdu-food-list-20260424/)
 
 {%endtimeline%}
