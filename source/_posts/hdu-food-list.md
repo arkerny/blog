@@ -25,6 +25,6 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 
 {%timeline%}
 <!-- node Apr 25, 2026 -->
-[喜铺破包子](https://blog.akn.moe/2026/04/25/hdu-food-list-20260425/)
+[喜铺破包子](https://blog.akn.moe/2026/05/16/hdu-food-list-20260425/)
 
 {%endtimeline%}
