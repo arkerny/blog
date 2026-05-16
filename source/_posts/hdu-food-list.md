@@ -20,3 +20,11 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 [杭邦面馆](https://blog.akn.moe/2026/04/25/hdu-food-list-20260424/)
 
 {%endtimeline%}
+
+## 高沙小区
+
+{%timeline%}
+<!-- node Apr 25, 2026 -->
+[喜铺破包子](https://blog.akn.moe/2026/04/25/hdu-food-list-20260425/)
+
+{%endtimeline%}
