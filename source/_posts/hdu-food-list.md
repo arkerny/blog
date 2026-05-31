@@ -38,3 +38,11 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 [南京大排档](https://blog.akn.moe/2026/05/19/hdu-food-list-20260422/)
 
 {%endtimeline%}
+
+## 文泽和达城
+
+{%timeline%}
+<!-- node Mar 06, 2026 -->
+[晌熏欧巴年糕](https://blog.akn.moe/2026/05/31/hdu-food-list-20260506/)
+
+{%endtimeline%}
