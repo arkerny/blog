@@ -46,3 +46,11 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 [晌熏欧巴年糕](https://blog.akn.moe/2026/05/31/hdu-food-list-20260506/)
 
 {%endtimeline%}
+
+## 十二街区商城
+
+{%timeline%}
+<!-- node Mar 13, 2026 -->
+[荆九爷爆炒桥头三嫩](https://blog.akn.moe/2026/06/28/hdu-food-list-20260513/)
+
+{%endtimeline%}
