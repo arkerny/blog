@@ -47,7 +47,7 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 
 {%endtimeline%}
 
-## 十二街区商城
+## 十六街区商城
 
 {%timeline%}
 <!-- node Mar 13, 2026 -->
