@@ -23,6 +23,9 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 [北调儿铜炉鸡锅](https://blog.akn.moe/2026/05/26/hdu-food-list-20260427/)
 {%endtimeline%}
 
+<!-- node Jun 28, 2026 -->
+[香港岛餐厅](https://blog.akn.moe/2026/07/08/hdu-food-list-20260628/)
+{%endtimeline%}
 ## 高沙小区
 
 {%timeline%}
