@@ -27,6 +27,9 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 
 <!-- node Jul 10, 2026 -->
 [粮里富社](https://blog.akn.moe/2026/07/10/hdu-food-list-20260710/)
+
+<!-- node Sep 13, 2026 -->
+[淮南牛肉汤](https://blog.akn.moe/2026/09/22/hdu-food-list-20260922)
 {%endtimeline%}
 ## 高沙小区
 
