@@ -7,7 +7,7 @@ cover: 'https://split.img.arkerny.fun/images%2F2026%2F07-08-09-07-57-bda4e77079e
 description: 不如外卖
 ---
 
-{% note color:warning 该店营业情况未知，谨慎前往 %}
+{% note color:warning 已闭店 %}
 
 > Mar 28，2026 午 一刷
 

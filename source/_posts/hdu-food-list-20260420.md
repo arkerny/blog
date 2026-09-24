@@ -7,6 +7,8 @@ cover: 'https://split.img.arkerny.fun/%2Fimages%2F2026%2F04-20-22-04-07-27c985fe
 description: 港式肥锅米线
 ---
 
+{% note color:warning 已闭店 %}
+
 > Apr 20, 2026 晚 一刷
 
 ## 菜单与价格
