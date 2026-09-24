@@ -66,3 +66,11 @@ description: arkerny 和 cHAR0N 的 HDU 周边美食探店指北😋
 [荆九爷爆炒桥头三嫩](https://blog.akn.moe/2026/06/28/hdu-food-list-20260513/)
 
 {%endtimeline%}
+
+## 金沙湖
+
+{%timeline%}
+<!-- node Jul 12, 2026 -->
+[汉堡王](https://blog.akn.moe/2026/07/12/hdu-food-list-20260712/)
+
+{%endtimeline%}
